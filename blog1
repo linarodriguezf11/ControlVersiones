@@ -1,0 +1,250 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<!--
+
+
+-->
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="keywords" content="">
+	<meta name="description" content="">
+
+	<!-- Titulo
+   ================================================== -->
+	<title>Archery tag</title>
+
+	<!-- Bootstrap CSS
+   ================================================== -->
+	<link rel="stylesheet" href="css/bootstrap.min.css">
+
+	<!-- Animacion CSS
+   ================================================== -->
+	<link rel="stylesheet" href="css/animate.min.css">
+
+	<!-- Fuente iconos CSS
+   ================================================== -->
+	<link rel="stylesheet" href="css/font-awesome.min.css">
+	<link rel="stylesheet" href="css/ionicons.min.css">
+
+	<!-- Main CSS
+   ================================================== -->
+	<link rel="stylesheet" href="css/style.css">
+
+	<!-- Fuente google  
+   ================================================== -->	
+  <link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700,300' rel='stylesheet' type='text/css'>
+	
+</head>
+<body>
+
+
+<!-- Seccion precargada
+================================================== -->
+<div class="preloader">
+
+	<div class="sk-spinner sk-spinner-pulse"></div>
+
+</div>
+
+
+<!-- Barra de navegación
+================================================== -->
+<div class="nav-container">
+   <nav class="nav-inner transparent">
+
+      <div class="navbar">
+         <div class="container">
+            <div class="row">
+
+              <div class="brand">
+                <a href="index.html">Archery TAG</a>
+              </div>
+
+              <div class="navicon">
+                <div class="menu-container">
+
+                  <div class="circle dark inline">
+                    <i class="icon ion-navicon"></i>
+                  </div>
+
+                  <div class="list-menu">
+                    <i class="icon ion-close-round close-iframe"></i>
+                    <div class="intro-inner">
+                      <ul id="nav-menu">
+                        <li><a href="index.html">Inicio</a></li>
+                        <li><a href="contact.html">Reservas</a>
+                        <li><a href="about.html">Contacto</a></li>
+                        <li><a href="blog.html">Nosotros</a></li>
+                     
+                      </ul>
+                    </div>
+                  </div>
+
+                </div>
+              </div>
+
+            </div>
+         </div>
+      </div>
+
+   </nav>
+</div>
+<!-- Header
+================================================== -->
+<section id="header" class="header-five">
+	<div class="container">
+		<div class="row">
+
+			<div class="col-md-offset-3 col-md-6 col-sm-offset-2 col-sm-8">
+          <div class="header-thumb">
+              <h1 class="wow fadeIn" data-wow-delay="0.6s">BIENVENIDO</h1>
+              <h3 class="wow fadeInUp" data-wow-delay="0.9s">Conócenos</h3>
+          </div>
+			</div>
+
+		</div>
+	</div>		
+</section>
+
+
+<!-- Seccion de blog
+================================================== -->
+<section id="blog">
+      <div class="row">
+
+         <div class="wow fadeInUp col-md-6 col-sm-6" data-wow-delay="1s">
+         	  <div class="blog-thumb">
+         		   <a href="single-post.html"><img src="images/blog-img1.jpg" class="img-responsive" alt="Blog"></a>
+         		   <a href="single-post.html"><h1>DESCRIPCIÓN</h1></a>
+         		     <div class="post-format">
+						        <span>Danos el placer <a href="#">de atenderte</a></span>
+						        <span><i class="fa fa-date"></i> 2019 </span>
+					       </div>
+         		     <p>A través de este proyecto se hace el planteamiento de la creación de un centro de entretenimiento y recreación de ARCHERY TAG, un deporte de arquería para jóvenes entre los 18 a 30 años de edad. 
+Una de las razones principales de crear un ARCHERY TAG fue la escasez de los mismos en Bogotá, la mayoría de la población de esta ciudad, desconocen la existencia de este, y la minoría que saben de este deporte, desconocen totalmente sus reglas, su objetivo y su origen. Fuera de esto existen grandes beneficios al practicar este deporte. Es aconsejable para la recuperación de ciertas lesiones tras accidentes, problemas de columna, etc. 
+.   <p><a href="index.html" class="btn btn-default">Volver a inicio</a></p>
+         		              	    </div>
+		    </div>
+
+		    <div class="wow fadeInUp col-md-6 col-sm-6" data-wow-delay="1.6s">
+         	  <div class="blog-thumb">
+         		   <a href="single-post.html"><img src="images/blog-img2.jpg" class="img-responsive" alt="Blog"></a>
+         		   <a href="single-post.html"><h1></h1></a>
+         			    <div class="post-format">
+						        <span> <a href="#"></a></span>
+						        <span><i class="fa fa-date"></i> </span>
+					       </div>
+         		     <p>El arco favorece la coordinación de brazos y piernas, el trabajo de espalda, relajación y tranquilidad, aumenta el control de la posición y de la capacidad de concentración. Que se va incrementando de año en año siendo uno de los deportes más recomendables por lo que aporta al crecimiento personal dándole madurez y fuerza física, adaptada a cada edad, y con adecuada preparación. En sí es un deporte que ayuda al joven a integrarse socialmente, y participar dentro de un grupo, motivándome en una dinámica que le hace olvidar su timidez de forma activa. No supone ningún riesgo, ya que se desarrolla siempre bajo la supervisión del correspondiente Monitor. Para muchas personas, ya en un grupo más adulto supone un alejamiento de los problemas cotidianos, de la liberación del estrés del trabajo, de hacer nuevos amigos, y pasar unas horas agradables.</p>
+         		  
+         	  </div>
+		    </div>
+          
+          
+          <p></p>
+        <div class="wow fadeInUp col-md-4 col-sm-4" data-wow-delay="2s">
+            <div class="blog-thumb">
+               
+               <a href="single-post.html"><h1></h1></a>
+                  <div class="post-format">
+                    <span><a href="#"></a></span>
+                    <span><i class="fa fa-date"></i></span>
+                 </div>
+                 <p></p>
+                 
+            </div>
+        </div>
+
+        <div class="wow fadeInUp col-md-3 col-sm-3" data-wow-delay="2.4s">
+            <div class="blog-thumb">
+               <a href="single-post.html"><img src="images/blog-img6.jpg" class="img-responsive" alt="Blog"></a>
+               <a href="single-post.html"><h1>Mountain</h1></a>
+                  <div class="post-format">
+                    <span>By <a href="#">Linda</a></span>
+                    <span><i class="fa fa-date"></i> 31 May 2016, Tuesday</span>
+                 </div>
+                 <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy.</p>
+                 <a href="single-post.html" class="btn btn-default">Read More</a>
+            </div>
+        </div>
+
+        <div class="wow fadeInUp col-md-3 col-sm-3" data-wow-delay="1.5s">
+            <div class="blog-thumb">
+               <a href="single-post.html"><img src="images/blog-img7.jpg" class="img-responsive" alt="Blog"></a>
+               <a href="single-post.html"><h1>Cloud</h1></a>
+                  <div class="post-format">
+                    <span>By <a href="#">Bill Gates</a></span>
+                    <span><i class="fa fa-date"></i> 30 May 2016, Monday</span>
+                 </div>
+                 <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy.</p>
+                 <a href="single-post.html" class="btn btn-default">Details</a>
+            </div>
+        </div>
+
+        <div class="wow fadeInUp col-md-3 col-sm-3" data-wow-delay="1s">
+            <div class="blog-thumb">
+               <a href="single-post.html"><img src="images/blog-img8.jpg" class="img-responsive" alt="Blog"></a>
+               <a href="single-post.html"><h1>Blue Sky</h1></a>
+                  <div class="post-format">
+                    <span>By <a href="#">Elon Musk</a></span>
+                    <span><i class="fa fa-date"></i> 29 May 2016, Sunday</span>
+                 </div>
+                 <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy.</p>
+                 <a href="single-post.html" class="btn btn-default">Read More</a>
+            </div>
+        </div>
+
+        <div class="wow fadeInUp col-md-3 col-sm-3" data-wow-delay="1.3s">
+            <div class="blog-thumb">
+               <a href="single-post.html"><img src="images/blog-img9.jpg" class="img-responsive" alt="Blog"></a>
+               <a href="single-post.html"><h1>Forest</h1></a>
+                  <div class="post-format">
+                    <span>By <a href="#">Jack Ma</a></span>
+                    <span><i class="fa fa-date"></i> 28 May 2016, Saturday</span>
+                 </div>
+                 <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy.</p>
+                 <a href="single-post.html" class="btn btn-default">Details</a>
+            </div>
+        </div>
+        
+        <div class="wow fadeInUp col-md-12 col-sm-12" data-wow-delay="1.3s">
+          <h1>Interdum et malesuada fames</h1>
+          <p>Sed quis laoreet purus, a luctus ligula. Suspendisse nec urna a dolor sodales venenatis. Donec et sem quam. Fusce faucibus neque sit amet arcu auctor tincidunt. Etiam feugiat nibh orci, quis sagittis velit pretium ac. Suspendisse egestas ex a dolor dictum gravida. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce sagittis urna id odio consequat fringilla.</p>
+          <p>Integer eu rhoncus libero. Nulla dignissim laoreet eros quis interdum. Proin ut placerat dui, eget vehicula ipsum. Mauris id molestie eros. Vestibulum fringilla dui nunc, vitae euismod ligula consectetur eget. Sed accumsan, ipsum in scelerisque euismod, nisi quam placerat urna, ac porttitor augue sapien varius velit.</p>
+       </div>
+
+      </div>
+   </div>
+</section>
+
+<!-- Footer section
+================================================== -->
+<footer>
+	<div class="container">
+		<div class="row">
+
+			<div class="col-md-12 col-sm-12">
+				<p class="wow fadeInUp"  data-wow-delay="0.3s">Copyright © 2016 Your Company Name - Designed by Tooplate</p>
+				<ul class="social-icon wow fadeInUp"  data-wow-delay="0.6s">
+					<li><a href="#" class="fa fa-facebook"></a></li>
+					<li><a href="#" class="fa fa-twitter"></a></li>
+					<li><a href="#" class="fa fa-dribbble"></a></li>
+					<li><a href="#" class="fa fa-behance"></a></li>
+					<li><a href="#" class="fa fa-google-plus"></a></li>
+				</ul>
+			</div>
+			
+		</div>
+	</div>
+</footer>
+
+<!-- Javascript 
+================================================== -->
+<script src="js/jquery.js"></script>
+<script src="js/bootstrap.min.js"></script>
+<script src="js/wow.min.js"></script>
+<script src="js/custom.js"></script>
+
+</body>
+</html>
